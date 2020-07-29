@@ -1,0 +1,19 @@
+creating shortcut for python or bash script
+
+
+
+###################.desktop file contents############################
+[Desktop Entry]
+Name=FR-Enrollment
+Version=v1
+Icon=/home/ajithbalakrishnan/vijnalabs/excecutable_18.04/FR/fr_slk/images.png
+Exec=gnome-terminal -e "/home/ajithbalakrishnan/vijnalabs/excecutable_18.04/FR/$
+Terminal=true
+Type=Application
+Categories=Application;
+
+##################Referances########################################
+1.https://askubuntu.com/questions/436891/create-a-desktop-file-that-opens-and-execute-a-command-in-a-terminal
+2.https://gist.github.com/nathakits/7efb09812902b533999bda6793c5e872
+
+
